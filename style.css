@@ -1,22 +1,22 @@
-body {background-color= Azure;
+body {background-color: Azure;
           }
         
-h1 { font-style= Arial;
-          font-weight= bold;
-          font-size= 14pt
+h1 { font-style: Arial;
+          font-weight: bold;
+          font-size: 14pt
           /*https://stackoverflow.com/questions/3593594/how-to-keep-the-header-static-always-on-top-while-scrolling*//
           position: sticky;
           top:0;
           padding:40px;
           /**/
-          background-colour= Cadet Blue;
-          color = white;
+          background-colour: Cadet Blue;
+          color : white;
           }
 
-p {  font-style= Arial;
-          font-weight= normal;
-          font-size= 12pt;
-          color = black
+p {  font-style: Arial;
+          font-weight: normal;
+          font-size: 12pt;
+          color : black
           }
           
           
