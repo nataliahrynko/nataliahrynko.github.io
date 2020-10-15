@@ -1,4 +1,4 @@
-.header {
+header {
 /* color source:https://www.w3schools.com/cssref/css_colors.asp +
   header from https://www.w3schools.com/howto/howto_css_style_header.asp*/
   background-color: #4682B4;
@@ -32,3 +32,6 @@ li a {
   text-decoration: none;
 }
 
+h2 {
+  column-count: 3;
+}
