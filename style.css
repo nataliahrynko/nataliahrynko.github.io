@@ -12,6 +12,7 @@ body {
   background-color: Azure;
 }
 
+/* NavBar style source:    */
 ul {
   list-style-type: none;
   margin: 0;
@@ -33,7 +34,11 @@ li a {
   font-size: 14pt;
 }
 
+/* Border style source:     */
 h2 {
+  border-bottom-style: solid;
+  border-color: #4682B4;
+  border-width: 5pt;
   color: black;
   font-size: 12pt;
   font-style: bold;
