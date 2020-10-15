@@ -1,19 +1,7 @@
-body {background-color: Azure;
-          }
-        
-h1 { font-style: Arial;
-          font-weight: bold;
-          font-size: 14pt
-          top:0;
-          padding:40px;
-          background color: Cadet Blue;
-          color : white;
-          }
-
-p {  font-style: Arial;
-          font-weight: normal;
-          font-size: 12pt;
-          color : black
-          }
+.header {
+  background-color: Cadet Blue;
+  text-align: center;
+  padding: 20px;
+}
           
           
