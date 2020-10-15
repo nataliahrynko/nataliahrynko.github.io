@@ -1,7 +1,7 @@
 .header {
-/* color is dark cyan source:https://www.w3schools.com/cssref/css_colors.asp +
+/* color source:https://www.w3schools.com/cssref/css_colors.asp +
   header from https://www.w3schools.com/howto/howto_css_style_header.asp*/
-  background-color: #008B8B;
+  background-color: ##4682B4;
   text-align: center;
   padding: 20px;
   color: white;
@@ -17,7 +17,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #708090;
 }
 
 li {
@@ -32,10 +32,3 @@ li a {
   text-decoration: none;
 }
 
-li a:hover:not(.active) {
-  background-color: #111;
-}
-
-.active {
-  background-color: #4CAF50;
-}
