@@ -1,7 +1,10 @@
 .header {
-  background-color: Cadet Blue;
+/* color is dark cyan source:https://www.w3schools.com/cssref/css_colors.asp +*/
+  background-color: #008B8B;
   text-align: center;
   padding: 20px;
+  color: white;
+  font-size: 30px;
 }
           
           
