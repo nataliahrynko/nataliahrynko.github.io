@@ -1,5 +1,6 @@
 .header {
-/* color is dark cyan source:https://www.w3schools.com/cssref/css_colors.asp +*/
+/* color is dark cyan source:https://www.w3schools.com/cssref/css_colors.asp +
+  header from https://www.w3schools.com/howto/howto_css_style_header.asp*/
   background-color: #008B8B;
   text-align: center;
   padding: 20px;
@@ -7,4 +8,6 @@
   font-size: 30px;
 }
           
-          
+body {
+  background-color: Azure;
+}
