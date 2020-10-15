@@ -36,6 +36,7 @@ li a {
 
 /* Border style source:     */
 h2 {
+  border-top-style: solid;
   border-bottom-style: solid;
   border-color: #4682B4;
   border-width: 3pt;
