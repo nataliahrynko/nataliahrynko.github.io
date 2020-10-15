@@ -13,7 +13,7 @@ body {
 }
 
 /* NavBar style source:    */
-ul1 {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -26,11 +26,11 @@ ul1 {
     margin: 0;
     padding: 0;
  */
-li1 {
+li {
   float: left;
 }
 
-li1 a {
+li a {
   display: block;
   color: azure;
   text-align: center;
