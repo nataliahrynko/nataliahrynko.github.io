@@ -1,11 +1,11 @@
-header {
+.header {
 /* color source:https://www.w3schools.com/cssref/css_colors.asp +
   header from https://www.w3schools.com/howto/howto_css_style_header.asp*/
   background-color: #4682B4;
   text-align: center;
   padding: 20px;
   color: azure;
-  font-size: 30px;
+  font-size: 24pt;
 }
           
 body {
@@ -30,8 +30,10 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-size: 14pt;
 }
 
 h2 {
-  column-count: 3;
+  color: black;
+  font-size: 12pt
 }
