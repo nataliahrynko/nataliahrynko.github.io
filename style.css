@@ -13,13 +13,18 @@ body {
 }
 
 /* NavBar style source:    */
-ul {
+ul1 {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #708090;
 }
+
+ul2 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 
 li {
   float: left;
