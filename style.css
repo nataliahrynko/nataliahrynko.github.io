@@ -52,18 +52,21 @@ h3 {
 
 p1 {
   font-size: 10pt;
-  padding: 4pt;
+  padding: 2pt;
 }
 
 p2 {
   font-size: 9pt;
   font-style: italic;
-  margin: 20px
+  margin: 20px;
+  padding: none;
+  margin-right: 10px
 }
 
 p3 {
   font-size: 8pt;
   margin:20px;
+  font-style: none;
 }
 
 img {
