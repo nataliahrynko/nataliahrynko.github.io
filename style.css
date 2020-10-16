@@ -47,25 +47,23 @@ h2 {
 }
 
 h3 {
-  font-size:11pt
+  font-size:12pt
 }
 
 p1 {
-  font-size: 10pt;
+  font-size: 11pt;
   padding: 2pt;
   font-style:normal;
 }
 
 p2 {
-  font-size: 9pt;
+  font-size: 10pt;
   font-style: italic;
   padding: none;
-  margin-right: 10px
 }
 
 p3 {
-  font-size: 8pt;
-  margin-right: 10px;
+  font-size: 10pt;
   font-style: normal;
 }
 
