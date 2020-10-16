@@ -22,13 +22,13 @@ ul {
 }
 
 li {
-  float: right;
+  float: left;
 }
 
 li a {
   display: block;
   color: azure;
-  text-align: center;
+  text-align: left;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 14pt;
