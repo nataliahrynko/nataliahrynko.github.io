@@ -28,15 +28,15 @@ li {
 li a {
   display: block;
   color: azure;
-  text-align: left;
-  padding: 14px 16px;
+  text-align: center;
+  padding: 12px 14px;
   text-decoration: none;
   font-size: 14pt;
 }
 
 /* Border style source:     */
 h2 {
-  border-style:hidden;
+  border-style:solid;
   background-color: #B0C4DE4;
   border-width: 1pt;
   color: black;
