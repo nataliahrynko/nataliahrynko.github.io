@@ -49,19 +49,19 @@ h3 {
   font-size:12pt
 }
 
-p1 {
+.p1Div {
   font-size: 11pt;
   padding: 2pt;
   font-style:normal;
 }
 
-p2 {
+.p2Div {
   font-size: 10pt;
   font-style: italic;
   padding: none;
 }
 
-p3 {
+.p3Div {
   font-size: 10pt;
   font-style: normal;
 }
