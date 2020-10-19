@@ -89,7 +89,8 @@ img {
 
 /* table style source: https://www.w3schools.com/css/tryit.asp?filename=trycss_table_color */
 /*  table center source:https://www.w3schools.com/howto/howto_css_table_center.asp  */
-.center {
+
+table.center {
   margin-left: auto;
   margin-right: auto;
 }
