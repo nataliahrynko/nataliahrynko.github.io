@@ -63,6 +63,8 @@ h3 {
   font-size:11pt;
 }
 
+/* source for types of link styles:https://www.w3schools.com/css/css_link.asp  */
+
 a:link {
   color: lightSteelblue;
   font-weight:bold;
