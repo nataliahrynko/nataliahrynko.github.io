@@ -27,9 +27,8 @@ li {
   float: left;
 }
 
-/* source for active bar: https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_horizontal_black_active */
 
-li a:hover:not(.active)  {
+li a {
   display: block;
   color: azure;
   font-size: 13pt;
@@ -38,15 +37,6 @@ li a:hover:not(.active)  {
   text-decoration: none;
 }
 
-.active {
-  background-color: #4682B4;
-   list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-
-  
-}
 
 
 /* Border style source:     */
