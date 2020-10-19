@@ -49,11 +49,17 @@ h3 {
   font-size:12pt
 }
 
+.p {
+  font-style: italic;
+}
+
 /* source for photo https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side */
 
 * {
   box-sizing: border-box;
+  font-family: "Lucida Console", Courier, monospace;
 }
+
 
 .column {
   float: left;
