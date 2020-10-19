@@ -89,11 +89,10 @@ img {
 
 /* table style source: https://www.w3schools.com/css/tryit.asp?filename=trycss_table_color */
 
-table {
-  width="100%;
-}
+
 
 th, td {
+  width:"100%";
   text-align: left;
   padding: 10px;
 }
@@ -101,11 +100,8 @@ th {
   background-color:lightsteelblue;
   color: black ;
   
-tr:nth-child(odd){
+tr {
   background-color: lightgrey;
   }
   
-  tr:nth-child(even){
-  background-color: gainsboro;
-  }
 
