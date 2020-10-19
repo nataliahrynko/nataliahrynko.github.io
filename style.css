@@ -94,8 +94,8 @@ th, td {
   padding: 10px;
 }
 th {
-  background-color: #D3D3D3;
-  color:#ADD8E6 ;
+  background-color:#ADD8E6;
+  color: azure ;
 tr:nth-child(odd){
   background-color: #B0C4DE
   }
