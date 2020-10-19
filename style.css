@@ -1,4 +1,4 @@
-.header {
+header {
 /* color source:https://www.w3schools.com/cssref/css_colors.asp +
   header from https://www.w3schools.com/howto/howto_css_style_header.asp*/
   background-color: steelblue;
@@ -48,18 +48,18 @@ h3 {
   font-size:12pt
 }
 
-.p1Div {
+p1Div {
   font-size: 11pt;
   padding: 2pt;
   font-weight:normal;
 }
 
-.p2Div {
+p2Div {
   font-size: 11pt;
   font-style: italic;
 }
 
-.p3Div {
+p3Div {
   font-size: 11pt;
   font-weight: normal;
 }
