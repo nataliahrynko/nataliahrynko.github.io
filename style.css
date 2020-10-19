@@ -49,6 +49,10 @@ h3 {
   font-size:12pt
 }
 
+p {
+  font-size:11pt
+}
+
 .p {
   font-style: italic;
 }
@@ -64,14 +68,12 @@ h3 {
   font-family:"Arial, Helvetica, sans-serif";
 }
 
-
 .column {
   float: left;
   width: 33.33%;
-  padding: 2px;
+  padding: 3px;
 }
 
-/* Clearfix (clear floats) */
 .row::after {
   content: "";
   clear: both;
@@ -80,6 +82,7 @@ h3 {
 
 img {
   float: right;
+  padding: 2px;
 }
 
 
