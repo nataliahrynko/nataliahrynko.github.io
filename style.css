@@ -91,21 +91,24 @@ img {
 
 table {
   width: "100%"
+}
 
 table, th, td {
-  border: 2px solid darksteelblue;
+  border: solid; 
+  border-color: darksteelblue;
 }
 
 th, td {
   text-align: left;
   padding: 10px;
 }
+
 th {
   background-color:lightsteelblue;
   color: black ;
   
 tr {
-  background-color: lightgrey;
+  background-color:lightgrey;
   }
   
 
