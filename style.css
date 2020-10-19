@@ -66,13 +66,13 @@ h3 {
 /* source for types of link styles:https://www.w3schools.com/css/css_link.asp  */
 
 a:link {
-  color: lightSteelblue;
+  color: Steelblue;
   font-weight:bold;
 }
 
 /* visited link */
 a:visited {
-  color: Darksteelblue;
+  color: navy;
   font-weight:bold;
 }
 
