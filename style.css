@@ -87,16 +87,25 @@ img {
   padding: 2px;
 }
 
-/* https://www.w3schools.com/css/tryit.asp?filename=trycss_table_color */
+/* table style source: https://www.w3schools.com/css/tryit.asp?filename=trycss_table_color */
+
+table {
+  width="100%;
+}
 
 th, td {
   text-align: left;
   padding: 10px;
 }
 th {
-  background-color:#ADD8E6;
-  color: azure ;
+  background-color:lightsteelblue;
+  color: black ;
+  
 tr:nth-child(odd){
-  background-color: #B0C4DE
+  background-color: lightgrey;
+  }
+  
+  tr:nth-child(even){
+  background-color: gainsboro;
   }
 
