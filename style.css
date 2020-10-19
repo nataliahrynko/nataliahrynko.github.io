@@ -89,10 +89,11 @@ img {
 
 /* table style source: https://www.w3schools.com/css/tryit.asp?filename=trycss_table_color */
 
-
+table, th, td {
+  border: 2px solid darksteelblue;
+}
 
 th, td {
-  width:"100%";
   text-align: left;
   padding: 10px;
 }
