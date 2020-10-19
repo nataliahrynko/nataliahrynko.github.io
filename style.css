@@ -1,3 +1,6 @@
+/* CSS file for Natalia Hrynko website.
+Last modified October 19th, 2020*/
+
 .header {
 /* color source:https://www.w3schools.com/cssref/css_colors.asp +
   header from https://www.w3schools.com/howto/howto_css_style_header.asp*/
@@ -13,7 +16,8 @@ body {
   background-color: Azure;
 }
 
-/* NavBar style source:  https://www.w3schools.com/css/css_navbar_horizontal.asp  */
+/* NavBar style source:  https://www.w3schools.com/css/css_navbar_horizontal.asp 
+Making text centered: https://www.w3schools.com/howto/howto_css_topnav_centered.asp */
 
 ul {
   list-style-type: none;
