@@ -60,6 +60,7 @@ h3 {
   padding: 2px;
 }
 
+/* Clearfix (clear floats) */
 .row::after {
   content: "";
   clear: both;
