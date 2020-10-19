@@ -87,5 +87,16 @@ img {
   padding: 2px;
 }
 
+/* https://www.w3schools.com/css/tryit.asp?filename=trycss_table_color */
 
+th, td {
+  text-align: left;
+  padding: 10px;
+}
+th {
+  background-color: #D3D3D3;
+  color:#ADD8E6 ;
+tr:nth-child(odd){
+  background-color: #B0C4DE
+  }
 
