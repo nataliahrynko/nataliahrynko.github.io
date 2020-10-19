@@ -77,12 +77,14 @@ h3 {
 .p2Div {
   font-size: 11pt;
   font-style: italic;
+  margin-right: 5pt;
 }
 
 .p3Div {
   font-size: 11pt;
   font-weight: normal;
-}
+  margin-right:10pt;
+  }
 
 img {
   float: right;
