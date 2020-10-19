@@ -68,11 +68,6 @@ h3 {
   display: table;
 }
 
-.p1Div {
-  font-size: 11pt;
-  padding: 2pt;
-  font-weight:normal;
-}
 
 .p2Div {
   font-size: 11pt;
@@ -89,5 +84,6 @@ h3 {
 img {
   float: right;
 }
+
 
 
