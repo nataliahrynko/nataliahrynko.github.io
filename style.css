@@ -56,16 +56,15 @@ h3 {
   font-size:12pt
 }
 
-p {
-  font-size:11pt
-}
 
 .p {
   font-style: italic;
+  font-size:11pt;
 }
 
 .p1{
   margin: 10px;
+  font-size:11pt;
 }
 
 /* source for photo https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side */
