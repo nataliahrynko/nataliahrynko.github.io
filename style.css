@@ -30,7 +30,7 @@ li {
 li a {
   display: block;
   color: azure;
-  font-size: 14pt;
+  font-size: 13pt;
   text-align: center;
   padding: 12px 14px;
   text-decoration: none;
@@ -67,19 +67,6 @@ h3 {
   clear: both;
   display: table;
 }
-
-
-.p2Div {
-  font-size: 11pt;
-  font-style: italic;
-  margin-right: 5pt;
-}
-
-.p3Div {
-  font-size: 11pt;
-  font-weight: normal;
-  margin-right:10pt;
-  }
 
 img {
   float: right;
