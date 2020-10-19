@@ -53,6 +53,10 @@ h3 {
   font-style: italic;
 }
 
+.p1{
+  margin: 10px;
+}
+
 /* source for photo https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side */
 
 * {
