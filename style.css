@@ -89,6 +89,10 @@ img {
 
 /* table style source: https://www.w3schools.com/css/tryit.asp?filename=trycss_table_color */
 
+table{
+    width:100%;
+  background-color: lightgrey;
+}
 
 table, th, td {
   border: 2px solid black;
@@ -103,8 +107,5 @@ th {
   background-color:lightsteelblue;
   color: black ;
   
-tr {
-  background-color:lightgrey;
-  }
-  
+
 
