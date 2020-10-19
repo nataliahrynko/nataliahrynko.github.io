@@ -89,6 +89,9 @@ img {
 
 /* table style source: https://www.w3schools.com/css/tryit.asp?filename=trycss_table_color */
 
+table {
+  width: "100%"
+
 table, th, td {
   border: 2px solid darksteelblue;
 }
