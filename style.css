@@ -2,9 +2,9 @@
 /* color source:https://www.w3schools.com/cssref/css_colors.asp +
   header from https://www.w3schools.com/howto/howto_css_style_header.asp*/
   background-color: steelblue;
-  height: 75px;
+  height: 100px;
   text-align: center;
-  padding: 5px;
+  padding: 10px;
   color: azure;
   font-size: 20pt;
 }
