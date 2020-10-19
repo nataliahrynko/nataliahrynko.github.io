@@ -38,11 +38,10 @@ li a {
 /* Border style source:     */
 h2 {
   border-style:solid;
-  background-color: #B0C4DE4;
   border-width: 1pt;
   color: black;
   font-size: 12pt;
-  font-style: bold;
+  font-weight: bold;
 }
 
 h3 {
@@ -52,22 +51,21 @@ h3 {
 .p1Div {
   font-size: 11pt;
   padding: 2pt;
-  font-style:normal;
+  font-weight:normal;
 }
 
 .p2Div {
-  font-size: 10pt;
-  font-style: italic;
-  padding: none;
+  font-size: 11pt;
+  font-weight: italic;
 }
 
 .p3Div {
-  font-size: 10pt;
-  font-style: normal;
+  font-size: 11pt;
+  font-weight: normal;
 }
 
 img {
   float: right;
 }
 
-table {
+
