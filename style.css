@@ -63,6 +63,18 @@ h3 {
   font-size:11pt;
 }
 
+a:link {
+  color: lightSteelblue;
+  font-weight:bold;
+}
+
+/* visited link */
+a:visited {
+  color: Darksteelblue;
+  font-weight:bold;
+}
+
+
 /* source for photo https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_images_side_by_side */
 
 * {
